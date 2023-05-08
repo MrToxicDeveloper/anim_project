@@ -8,6 +8,6 @@ class HomeController extends GetxController{
   RxInt weight = 40.obs;
   RxInt age = 15.obs;
 
-  RxDouble slider = 0.00.obs;
+  RxDouble height = 0.00.obs;
   RxDouble bmi = 0.00.obs;
 }
